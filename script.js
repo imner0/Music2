@@ -14,6 +14,7 @@ const durTime = document.querySelector('#durTime');
 // Song titles
 const songs = ["1,000,000 TIMES feat. chelly (EGOIST) chelly (EGOIST)",
 "333",
+"Pritam,_Arijit_Singh,_Shilpa_Rao_Tere_Hawaale_From_Laal_Sing",
 "Armand Van Helden - My My My (DJ KUBA & NEITAN Remix)",
 "AURORA - Runaway",
 "AURORA - Running With The Wolves",
